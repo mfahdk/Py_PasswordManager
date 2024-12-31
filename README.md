@@ -1,7 +1,6 @@
 # Description
 ### Title: **Secure Encrypted Password Manager**
-
-### Description:  
+  
 This Python-based password management application is designed to securely generate, store, and retrieve passwords. It leverages the `cryptography` library's `Fernet` encryption to protect sensitive data from unauthorized access. With features for generating strong passwords and securely storing them, this program provides a user-friendly way to manage credentials while prioritizing security.
 
 **Key Features:**  
