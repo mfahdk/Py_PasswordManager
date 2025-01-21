@@ -20,3 +20,7 @@ This Python-based password management application is designed to securely genera
    - Use secure vaults like AWS Secrets Manager, Azure Key Vault, or HashiCorp Vault for professional-grade key management.  
 
 By incorporating these enhancements, users can significantly improve the safety and reliability of their password management system, creating a secure and scalable solution for safeguarding credentials.
+
+# Code Demonstration
+
+![passwordMangaer](https://github.com/user-attachments/assets/1edd1047-f46e-440e-8e9b-e85e0002caa1)
